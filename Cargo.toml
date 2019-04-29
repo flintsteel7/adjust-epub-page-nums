@@ -1,0 +1,10 @@
+[package]
+name = "adjust-page-nums"
+version = "0.0.1"
+authors = ["Peter Turner <git-commit@flintsteel7.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.2.0"
+read-write-files = {path = "../read-write-files"}
+regex = "1"
