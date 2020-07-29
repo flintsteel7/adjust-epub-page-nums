@@ -1,5 +1,5 @@
 [package]
-name = "adjust-page-nums"
+name = "adjust-epub-page-nums"
 version = "0.0.1"
 authors = ["Peter Turner <git-commit@flintsteel7.com>"]
 edition = "2018"
