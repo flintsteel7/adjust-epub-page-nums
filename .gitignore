@@ -1,2 +1,6 @@
-/target
+.idea
+/target/*
+!/target/release
+/target/release/*
+!/target/release/adjust-epub-page-nums
 **/*.rs.bk
